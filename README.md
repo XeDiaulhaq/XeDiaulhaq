@@ -1,4 +1,3 @@
-## hii
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20XeDiaulhaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -28,9 +27,6 @@
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<div align="center">
-</div>
 
 ```javascript
 const xeDiaulhaq = {
@@ -126,6 +122,37 @@ Striving for excellence in every line of code
 
 <br/>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Project Showcase
+**Coming Soon!** Featured projects will be added here showcasing my best work in web development, automation, and open source contributions.
+
+**Tech Stack**: Full-Stack Development
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Open Source Contributions
+Active contributor to various open source projects. Check out my repositories to see what I'm working on!
+
+**Focus**: Community Impact
+
+</td>
+</tr>
+</table>
+
+➡️ **[View All Projects](https://github.com/XeDiaulhaq?tab=repositories)**
+
+</div>
+
+<br/>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Statistics
 
 <div align="center">
@@ -147,6 +174,14 @@ Striving for excellence in every line of code
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeDiaulhaq&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=XeDiaulhaq&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -179,6 +214,41 @@ const focus = {
     goal: "Full-Stack Mastery 🚀"
 };
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Collaborate
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 I'm Open To
+
+💻 **Freelance Projects**
+*Available for interesting opportunities*
+
+🤝 **Open Source Contributions**
+*Happy to contribute to meaningful projects*
+
+👥 **Collaborations**
+*Let's build something amazing together*
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 I Can Help With
+
+✅ Full-stack web development
+✅ API design & backend architecture
+✅ Frontend with modern frameworks
+✅ Code reviews & optimization
+✅ Technical documentation
+✅ Database design & queries
 
 </td>
 </tr>
@@ -228,7 +298,7 @@ const focus = {
 
 <br/>
 
-##  Random Dev Quote
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> Random Dev Quote
 
 <div align="center">
 
@@ -238,10 +308,51 @@ const focus = {
 
 <br/>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> 2025 Goals
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### ✅ Completed
+🎯 Build GitHub Profile
+🎯 Start Learning Journey
+
+</td>
+<td width="33%" align="center">
+
+### 🔄 In Progress
+⚙️ Master Full-Stack Dev
+⚙️ Contribute to Open Source
+
+</td>
+<td width="33%" align="center">
+
+### 📝 Planned
+📚 Build 5+ Projects
+👥 Reach 1000+ Followers
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Contribution Activity
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 <br/>
+
+---
 
 <div align="center">
 
@@ -272,8 +383,8 @@ Made with 💜 and ☕ by <b>XeDiaulhaq</b>
 </p>
 
 <p>
-<a href="#hii">
-<img src="https://img.shields.io/badge/Back_to_Top-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
+<a href="#top">
+<img src="https://img.shields.io/badge/⬆_Back_to_Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
 </a>
 </p>
 
