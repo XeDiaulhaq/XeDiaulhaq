@@ -1,3 +1,4 @@
+##hii
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20XeDiaulhaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -214,7 +215,7 @@ const focus = {
 
 <table align="center">
 <tr>
-<td align="center">📧 <b>Email</b><br/>xediaulhaq@example.com</td>
+<td align="center">📧 <b>Email</b><br/>dhiaul002@gmail.com</td>
 <td align="center">📍 <b>Location</b><br/>Indonesia 🇮🇩</td>
 </tr>
 <tr>
@@ -271,7 +272,7 @@ Made with 💜 and ☕ by <b>XeDiaulhaq</b>
 </p>
 
 <p>
-<a href="https://github.com/XeDiaulhaq">
+<a href="#hii">
 <img src="https://img.shields.io/badge/Back_to_Top-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
 </a>
 </p>
