@@ -375,7 +375,7 @@ const focus = {
 <br/>
 
 <p>
-Made with 💜 and ☕ by <b>XeDiaulhaq</b>
+Made with 🌹❤️ and ☕ by <b>XeDiaulhaq</b>
 </p>
 
 <p>
