@@ -365,8 +365,10 @@ const focus = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeDiaulhaq&theme=radical" alt="Profile Summary"/>
 -->
+
 <br/>
 
+<div align="center">
 
 ### 💭 Quote
 
@@ -374,18 +376,18 @@ const focus = {
 
 <br/>
 
-<p>
-Made with 🌹❤️ and ☕ by <b>XeDiaulhaq</b>
-</p>
+Made with 🌹❤️ and ☕ by **XeDiaulhaq**
 
-<p>
+<br/>
+<!--
 <a href="#top">
 <img src="https://img.shields.io/badge/⬆_Back_to_Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
 </a>
-</p>
-
+-->
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
 
 </div>
