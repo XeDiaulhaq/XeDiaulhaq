@@ -26,35 +26,9 @@
 
 <br/>
 
-## 📋 Table of Contents
-
-<table align="center">
-<tr>
-<td width="50%">
-
-- 👨‍💻 [About Me](#-about-me)
-- 🚀 [My Skills](#-my-skills)
-- 💼 [Featured Projects](#-featured-projects)
-- 📊 [GitHub Statistics](#-github-statistics)
-
-</td>
-<td width="50%">
-
-- 🏆 [Achievements](#-achievements)
-- 📚 [Currently Learning](#-currently-learning)
-- 🤝 [Let's Collaborate](#-lets-collaborate)
-- 📞 [Get in Touch](#-get-in-touch)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <div align="center">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 ```javascript
@@ -176,14 +150,6 @@ Striving for excellence in every line of code
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=XeDiaulhaq&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> Currently Learning
 
 <table align="center">
@@ -212,45 +178,6 @@ const focus = {
     goal: "Full-Stack Mastery 🚀"
 };
 ```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Collaborate
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💼 I'm Open To
-
-<p align="left">
-💻 <b>Freelance Projects</b><br/>
-<i>Available for interesting opportunities</i><br/><br/>
-
-🤝 <b>Open Source</b><br/>
-<i>Happy to contribute to meaningful projects</i><br/><br/>
-
-👥 <b>Collaborations</b><br/>
-<i>Let's build something amazing together</i>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌟 I Can Help With
-
-<p align="left">
-✅ Full-stack web development<br/>
-✅ API design & architecture<br/>
-✅ Frontend with modern frameworks<br/>
-✅ Code reviews & optimization<br/>
-✅ Technical documentation<br/>
-✅ Database design<br/>
-</p>
 
 </td>
 </tr>
@@ -300,7 +227,7 @@ const focus = {
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
 
@@ -310,47 +237,8 @@ const focus = {
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> 2025 Goals
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Completed
-✅ Contribute to 10+ OSS<br/>
-✅ Build portfolio site<br/>
-
-</td>
-<td width="33%" align="center">
-
-### 🔄 In Progress
-⚙️ 5 Production Apps<br/>
-⚙️ Master Cloud & DevOps<br/>
-
-</td>
-<td width="33%" align="center">
-
-### 📝 Planned
-📚 50+ Tech Blog Posts<br/>
-👥 Mentor Developers<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 <br/>
 
@@ -358,7 +246,7 @@ const focus = {
 
 ## 💖 Thanks for Stopping By!
 
-<img src="https://profile-counter.glitch.me/XeDiaulhaq/count.svg" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=XeDiaulhaq&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 <p align="center">
 <b>If you like my work, consider following me or starring my repositories!</b> ⭐
@@ -383,7 +271,7 @@ Made with 💜 and ☕ by <b>XeDiaulhaq</b>
 </p>
 
 <p>
-<a href="#-hi-im-xediaulhaq">
+<a href="https://github.com/XeDiaulhaq">
 <img src="https://img.shields.io/badge/Back_to_Top-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
 </a>
 </p>
