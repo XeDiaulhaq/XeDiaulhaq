@@ -1,35 +1,425 @@
-# Welcome to XeDiaulhaq Repository
+<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/XeDiaulhaq/XeDiaulhaq)
-![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq/XeDiaulhaq?style=social)
+# 👋 Hi, I'm XeDiaulhaq!
 
-## 🎨 Project Overview
+### *Software Developer | Tech Enthusiast | Open Source Contributor*
 
-This project is designed to showcase amazing features that provide a delightful experience to the users. Enjoy our colorful presentation with an animated touch!
+[![Profile Views](https://komarev.com/ghpvc/?username=XeDiaulhaq&color=blueviolet&style=for-the-badge)](https://github.com/XeDiaulhaq)
+[![GitHub followers](https://img.shields.io/github/followers/XeDiaulhaq?color=green&style=for-the-badge&logo=github)](https://github.com/XeDiaulhaq?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq?color=yellow&style=for-the-badge&logo=github)](https://github.com/XeDiaulhaq?tab=repositories)
 
-## 🚀 Features
-- **Rich Visuals**: A colorful and engaging user interface.
-- **Gradient Effects**: Elements that flow seamlessly.
-- **Animated Elements**: Enhancing interactions for users.
-- **Badges for Recognition**: Showcasing achievements and stats.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+About+Clean+Code;Building+Amazing+Projects;Always+Learning+New+Things!)
 
-## 📦 Installation Steps
-To get started, clone the repository and install the dependencies:
-```bash
-git clone https://github.com/XeDiaulhaq/XeDiaulhaq.git
-cd XeDiaulhaq
-# Installation commands
-```
-
-## 🤝 Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get involved.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📅 Last Updated
-**2025-11-09 13:32:04 UTC**
+</div>
 
 ---
 
-Thank you for visiting our project!
+## 📋 Table of Contents
+
+- [👨‍💻 About Me](#-about-me)
+- [🚀 My Skills](#-my-skills)
+- [� Featured Projects](#-featured-projects)
+- [� GitHub Statistics](#-github-statistics)
+- [🏆 Achievements](#-achievements)
+- [📚 Currently Learning](#-currently-learning)
+- [🤝 Let's Collaborate](#-lets-collaborate)
+- [📞 Get in Touch](#-get-in-touch)
+
+---
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+```javascript
+const xeDiaulhaq = {
+    pronouns: "He" | "Him",
+    location: "Indonesia 🇮🇩",
+    role: "Software Developer",
+    passions: ["Coding", "Open Source", "Problem Solving", "Learning"],
+    currentFocus: "Building impactful projects that matter",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+</div>
+
+I'm a passionate developer who loves turning ideas into reality through code. I believe in writing clean, efficient, and maintainable code while continuously learning and adapting to new technologies.
+
+### 🎯 What Drives Me
+
+- 💡 **Innovation**: Always exploring new technologies and methodologies
+- 🌱 **Growth**: Committed to continuous learning and improvement
+- 🤝 **Collaboration**: Believing in the power of open source and community
+- 🎨 **Quality**: Striving for excellence in every line of code
+
+---
+
+## 🚀 My Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### � Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Project Name 1](https://github.com/XeDiaulhaq/project1)
+**Description**: Brief description of your amazing project and what it does.
+
+![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq/project1?style=social)
+![GitHub forks](https://img.shields.io/github/forks/XeDiaulhaq/project1?style=social)
+
+**Tech Stack**: `React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Project Name 2](https://github.com/XeDiaulhaq/project2)
+**Description**: Another incredible project showcasing your skills.
+
+![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq/project2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/XeDiaulhaq/project2?style=social)
+
+**Tech Stack**: `Python` `Django` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 [Project Name 3](https://github.com/XeDiaulhaq/project3)
+**Description**: A creative solution to a common problem.
+
+![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq/project3?style=social)
+![GitHub forks](https://img.shields.io/github/forks/XeDiaulhaq/project3?style=social)
+
+**Tech Stack**: `Vue.js` `Express` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Project Name 4](https://github.com/XeDiaulhaq/project4)
+**Description**: An innovative approach with modern technologies.
+
+![GitHub stars](https://img.shields.io/github/stars/XeDiaulhaq/project4?style=social)
+![GitHub forks](https://img.shields.io/github/forks/XeDiaulhaq/project4?style=social)
+
+**Tech Stack**: `Next.js` `TypeScript` `Firebase`
+
+</td>
+</tr>
+</table>
+
+➡️ **[View All Projects](https://github.com/XeDiaulhaq?tab=repositories)**
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XeDiaulhaq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeDiaulhaq&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XeDiaulhaq&theme=radical)](https://github.com/XeDiaulhaq)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XeDiaulhaq&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=XeDiaulhaq&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```python
+learning_roadmap = {
+    "2025": [
+        "Advanced System Design",
+        "Cloud Architecture (AWS/Azure)",
+        "Machine Learning & AI",
+        "Microservices Architecture",
+        "DevOps & CI/CD"
+    ],
+    "focus_areas": ["Performance Optimization", "Security Best Practices"],
+    "goals": "Master full-stack development & contribute to major open source projects"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+</div>
+
+---
+
+## 🤝 Contributing
+
+We ❤️ contributions! Your input helps make this project better for everyone.
+
+### How to Contribute
+
+1. 🍴 **Fork** the repository
+2. 🌿 **Create** a new branch (`git checkout -b feature/AmazingFeature`)
+3. ✍️ **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 **Push** to the branch (`git push origin feature/AmazingFeature`)
+5. 🎉 **Open** a Pull Request
+
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines and code of conduct.
+
+### 🌟 Contributors
+
+Thanks to all our amazing contributors! ✨
+
+<div align="center">
+
+[![Contributors](https://contrib.rocks/image?repo=XeDiaulhaq/XeDiaulhaq)](https://github.com/XeDiaulhaq/XeDiaulhaq/graphs/contributors)
+
+</div>
+
+---
+
+## � License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
+
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+### 💼 I'm Open To
+
+| Type | Description |
+|------|-------------|
+| 💻 **Freelance Projects** | Available for interesting freelance opportunities |
+| 🤝 **Open Source** | Always happy to contribute to meaningful projects |
+| 👥 **Collaborations** | Let's build something amazing together |
+| 📚 **Mentorship** | Learning and growing with the community |
+| 💡 **Consulting** | Technical advice and code reviews |
+
+</div>
+
+### 🌟 What I Can Help With
+
+- ✅ Full-stack web application development
+- ✅ API design and backend architecture
+- ✅ Frontend development with modern frameworks
+- ✅ Code reviews and optimization
+- ✅ Technical documentation
+- ✅ Database design and optimization
+
+---
+
+## 📞 Get in Touch
+
+<div align="center">
+
+**Let's connect and create something extraordinary!**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xediaulhaq@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xediaulhaq)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xediaulhaq)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xediaulhaq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xediaulhaq.dev)
+
+### 📧 Direct Contact
+
+- **Email**: xediaulhaq@example.com
+- **Location**: Indonesia 🇮🇩
+- **Timezone**: GMT+7 (WIB)
+- **Response Time**: Usually within 24 hours
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Contribute to 10+ open source projects
+- 🔄 Build and launch 5 production-ready applications
+- 🔄 Master cloud architecture and DevOps
+- 🔄 Write 50+ technical blog posts
+- 🔄 Mentor junior developers
+- 🔄 Reach 1000+ GitHub followers
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/XeDiaulhaq/XeDiaulhaq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📅 Last Updated
+
+**November 9, 2025**
+
+---
+
+<div align="center">
+
+### 💖 Thanks for Stopping By!
+
+![Visitor Count](https://profile-counter.glitch.me/XeDiaulhaq/count.svg)
+
+**If you like my work, consider following me or starring my repositories!** ⭐
+
+---
+
+### 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeDiaulhaq&theme=radical)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+Made with 💜 and ☕ by **XeDiaulhaq**
+
+[⬆ Back to Top](#-hi-im-xediaulhaq)
+
+</div>
+
+---
+
+## � Community
+
+Join our growing community!
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XeDiaulhaq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/xediaulhaq)
+
+</div>
+
+---
+
+## 📞 Contact
+
+Have questions or suggestions? We'd love to hear from you!
+
+- 📧 **Email**: contact@xediaulhaq.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/XeDiaulhaq/XeDiaulhaq/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/XeDiaulhaq/XeDiaulhaq/discussions)
+
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/XeDiaulhaq/XeDiaulhaq?color=brightgreen&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/XeDiaulhaq/XeDiaulhaq?color=blue&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/XeDiaulhaq/XeDiaulhaq?color=orange&style=flat-square)
+
+</div>
+
+---
+
+## �📅 Last Updated
+
+**November 9, 2025**
+
+---
+
+<div align="center">
+
+### 💖 Thank You for Visiting!
+
+**If you find this project helpful, please consider giving it a ⭐!**
+
+Made with ❤️ by the XeDiaulhaq Team
+
+[⬆ Back to Top](#-welcome-to-xediaulhaq-repository-)
+
+</div>
