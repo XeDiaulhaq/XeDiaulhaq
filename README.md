@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## 📋 Table of Contents
 
@@ -49,7 +49,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
@@ -104,7 +104,7 @@ Striving for excellence in every line of code
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> My Skills
 
@@ -149,7 +149,7 @@ Striving for excellence in every line of code
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Statistics
 
@@ -174,7 +174,7 @@ Striving for excellence in every line of code
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeDiaulhaq&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Achievements
 
@@ -182,7 +182,7 @@ Striving for excellence in every line of code
 <img src="https://github-profile-trophy.vercel.app/?username=XeDiaulhaq&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> Currently Learning
 
@@ -217,7 +217,7 @@ const focus = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Collaborate
 
@@ -256,21 +256,19 @@ const focus = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Get in Touch
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" />
-
 ### Let's connect and create something extraordinary! ✨
 
 <p>
-<a href="mailto:xediaulhaq@example.com">
+<a href="mailto:dhiaul002@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/xediaulhaq">
+<a href="https://www.linkedin.com/in/muhammad-dhia-ulhaq-740a01379/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/xediaulhaq">
@@ -278,13 +276,11 @@ const focus = {
 </a>
 </p>
 <p>
-<a href="https://discord.com/users/your-discord-id">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://t.me/xediaulhaq">
+
+<a href="https://t.me/Diarchies">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://xediaulhaq.dev">
+<a href="https://oaxthm.my.id">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
@@ -302,7 +298,7 @@ const focus = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> Random Dev Quote
 
@@ -312,7 +308,7 @@ const focus = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c5-abb8-4b4e-8584-96e6f3c31c5e.png" width="30" /> 2025 Goals
 
@@ -336,13 +332,13 @@ const focus = {
 
 ### 📝 Planned
 📚 50+ Tech Blog Posts<br/>
-� Mentor Developers<br/>
+👥 Mentor Developers<br/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Contribution Activity
 
@@ -356,13 +352,11 @@ const focus = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-
-## Thanks for Stopping By! 💖
+## 💖 Thanks for Stopping By!
 
 <img src="https://profile-counter.glitch.me/XeDiaulhaq/count.svg" alt="Visitor Count"/>
 
@@ -370,17 +364,15 @@ const focus = {
 <b>If you like my work, consider following me or starring my repositories!</b> ⭐
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
 ### 📊 Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeDiaulhaq&theme=radical" alt="Profile Summary"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
-### 💭 Final Thoughts
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+### 💭 Quote
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -395,6 +387,8 @@ Made with 💜 and ☕ by <b>XeDiaulhaq</b>
 <img src="https://img.shields.io/badge/Back_to_Top-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
 </a>
 </p>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
