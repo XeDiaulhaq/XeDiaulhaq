@@ -18,8 +18,8 @@
 
 - [👨‍💻 About Me](#-about-me)
 - [🚀 My Skills](#-my-skills)
-- [� Featured Projects](#-featured-projects)
-- [� GitHub Statistics](#-github-statistics)
+- [💼 Featured Projects](#-featured-projects)
+- [📊 GitHub Statistics](#-github-statistics)
 - [🏆 Achievements](#-achievements)
 - [📚 Currently Learning](#-currently-learning)
 - [🤝 Let's Collaborate](#-lets-collaborate)
@@ -67,7 +67,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### � Frontend Development
+### 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -208,54 +208,6 @@ learning_roadmap = {
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
-</div>
-
----
-
-## 🤝 Contributing
-
-We ❤️ contributions! Your input helps make this project better for everyone.
-
-### How to Contribute
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a new branch (`git checkout -b feature/AmazingFeature`)
-3. ✍️ **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. 🎉 **Open** a Pull Request
-
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines and code of conduct.
-
-### 🌟 Contributors
-
-Thanks to all our amazing contributors! ✨
-
-<div align="center">
-
-[![Contributors](https://contrib.rocks/image?repo=XeDiaulhaq/XeDiaulhaq)](https://github.com/XeDiaulhaq/XeDiaulhaq/graphs/contributors)
-
-</div>
-
----
-
-## � License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
-
-```
-
----
-
 ## 🤝 Let's Collaborate
 
 <div align="center">
@@ -365,61 +317,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Made with 💜 and ☕ by **XeDiaulhaq**
 
 [⬆ Back to Top](#-hi-im-xediaulhaq)
-
-</div>
-
----
-
-## � Community
-
-Join our growing community!
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XeDiaulhaq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/xediaulhaq)
-
-</div>
-
----
-
-## 📞 Contact
-
-Have questions or suggestions? We'd love to hear from you!
-
-- 📧 **Email**: contact@xediaulhaq.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/XeDiaulhaq/XeDiaulhaq/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/XeDiaulhaq/XeDiaulhaq/discussions)
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/XeDiaulhaq/XeDiaulhaq?color=brightgreen&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/XeDiaulhaq/XeDiaulhaq?color=blue&style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/XeDiaulhaq/XeDiaulhaq?color=orange&style=flat-square)
-
-</div>
-
----
-
-## �📅 Last Updated
-
-**November 9, 2025**
-
----
-
-<div align="center">
-
-### 💖 Thank You for Visiting!
-
-**If you find this project helpful, please consider giving it a ⭐!**
-
-Made with ❤️ by the XeDiaulhaq Team
-
-[⬆ Back to Top](#-welcome-to-xediaulhaq-repository-)
 
 </div>
