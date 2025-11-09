@@ -1,6 +1,53 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Muhammad%20Dhiaulhaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=180&section=header&text=Hi%20%20I'm%20Muhammad%20Dhiaulhaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+###  Software Developer |  Tech Enthusiast |  Open Source Contributor
+
+<p align="center">
+  <a href="https://github.com/XeDiaulhaq">
+    <img src="https://komarev.com/ghpvc/?username=XeDiaulhaq&label=Profile%20Views&color=808080&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/XeDiaulhaq?tab=followers">
+    <img src="https://img.shields.io/github/followers/XeDiaulhaq?label=Followers&style=for-the-badge&color=808080&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/XeDiaulhaq?tab=repositories">
+    <img src="https://img.shields.io/github/stars/XeDiaulhaq?label=Total%20Stars&style=for-the-badge&color=808080&logo=github" alt="GitHub Stars"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!+✨;Passionate+About+Clean+Code+💻;Building+Amazing+Projects+🚀;Always+Learning+New+Things+📚;Let's+Collaborate+and+Innovate!+🤝" alt="Typing SVG"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br/> 
+<br/>
+
+<div align="center">
+
+### 💭 Quote
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+Made with 🌹❤️ and ☕ by **XeDiaulhaq**
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+
+</div>
+
+</div>
+<!--
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=180&section=header&text=Hi%20👋%20I'm%20Muhammad%20Dhiaulhaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
 
@@ -365,7 +412,7 @@ const focus = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeDiaulhaq&theme=radical" alt="Profile Summary"/>
 -->
-
+<!--
 <br/>
 
 <div align="center">
@@ -379,11 +426,13 @@ const focus = {
 Made with 🌹❤️ and ☕ by **XeDiaulhaq**
 
 <br/>
+-->
 <!--
 <a href="#top">
 <img src="https://img.shields.io/badge/⬆_Back_to_Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
 </a>
 -->
+<!--
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
@@ -391,3 +440,4 @@ Made with 🌹❤️ and ☕ by **XeDiaulhaq**
 </div>
 
 </div>
+-->
