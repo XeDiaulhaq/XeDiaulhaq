@@ -35,7 +35,7 @@
 
 <br/>
 
-Made with 🌹❤️ and ☕ by **XeDiaulhaq**
+Made with 🌹❤️ and ☕ by **Diarchves**
 
 <br/><br/>
 
